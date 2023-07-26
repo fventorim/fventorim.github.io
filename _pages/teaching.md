@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 **University of California, Irvine**
-2023 (Summer, Spring) - ICS32 | Programming with Software Libraries (Prof. Mustafa Ibrahim)
-2023 (Winter) - ICS139W | Critical Writing (Prof. Mustafa Ibrahim)
-2022 (Fall) - ICS31 | Introduction to Programming (Prof. Shannon Alfaro)
+<p>2023 (Summer, Spring) - ICS32 | Programming with Software Libraries (Prof. Mustafa Ibrahim)<p>
+<p>2023 (Winter) - ICS139W | Critical Writing (Prof. Mustafa Ibrahim)<p>
+<p>2022 (Fall) - ICS31 | Introduction to Programming (Prof. Shannon Alfaro)<p>
 
 **Fluminense Federal University**
 2019 - Production and Management of Urban Land Use (Prof. Fernanda Furtado)
