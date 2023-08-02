@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fventorim.github.io/fventorim/sitemap.xml
+Sitemap: https://fventorim.github.io/sitemap.xml
