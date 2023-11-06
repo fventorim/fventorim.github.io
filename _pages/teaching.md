@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ##### **University of California, Irvine**
-- 2023 (Summer, Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
+- 2023 (Fall, Summer, Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
 - 2023 (Winter) - ICS139W Critical Writing (Prof. Mustafa Ibrahim)
 - 2022 (Fall) - ICS31 Introduction to Programming (Prof. Shannon Alfaro)
 
