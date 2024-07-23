@@ -9,10 +9,9 @@ profile:
   image: fer_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>First year PhD student in Computer Science</p>
+    <p>PhD student in CS</p>
     <p>UC Irvine</p>
     <p>f.ventorim@uci.edu</p>
-    # <a href='https://docs.google.com/document/d/1oiGeJCLPZ9P-8D92QWY_67XCTLxjzuOn1T5S7pJfWGc/edit?usp=sharing'>CV</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
