@@ -2,8 +2,8 @@
 layout: page
 title: Senior Thesis
 description: "Connected urbanity: a reconciliation between urban voids and open spaces in the Jesus de Nazareth slum"
-img: 
-importance: 2
+img:
+importance: 3
 category: Senior thesis
 related_publications: habitar, pnum17
 ---

@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 2
-display_categories: [Thesis, Senior thesis, Research projects]
+display_categories: [PhD Research projects, Thesis, Senior thesis]
 horizontal: false
 ---
 

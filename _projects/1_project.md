@@ -3,7 +3,7 @@ layout: page
 title: Master’s Thesis
 description: "Criminality and urban space: an analysis of the relationship networks between types of crime, victim and spatial location in Rio de Janeiro"
 img:
-importance: 1
+importance: 2
 category: Thesis
 related_publications: urbe, urbanscience
 ---
