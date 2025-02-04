@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 3
 ---
 
 ##### **University of California, Irvine**
+- 2025 (Winter) - ICS139W Critical Writing (Prof. Shannon Alfaro)
 - 2024 (Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
 - 2024 (Winter) - CS121 Information Retrieval (Prof. Mustafa Ibrahim)
 - 2023 (Fall, Summer, Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
