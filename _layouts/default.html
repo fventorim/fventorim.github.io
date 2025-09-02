@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
-  <!-- Head -->
+    <!-- Head -->
   <head>
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+
+  <style>
+    /* diminui todos os ícones sociais */
+    .social-icons a i {
+      font-size: 14px; /* ajuste o valor conforme quiser */
+    }
+  </style>
   </head>
+
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
