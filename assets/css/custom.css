@@ -1,0 +1,4 @@
+/* diminui todos os ícones sociais */
+.social-icons a i {
+  font-size: 14px; /* ajuste conforme quiser */
+}
