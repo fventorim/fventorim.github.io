@@ -8,16 +8,14 @@ nav_order: 3
 ---
 
 ##### **University of California, Irvine**
-- 2025 (Winter) - ICS139W Critical Writing (Prof. Shannon Alfaro)
-- 2024 (Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
-- 2024 (Winter) - CS121 Information Retrieval (Prof. Mustafa Ibrahim)
-- 2023 (Fall, Summer, Spring) - ICS32 Programming with Software Libraries (Prof. Mustafa Ibrahim)
-- 2023 (Winter) - ICS139W Critical Writing (Prof. Mustafa Ibrahim)
-- 2022 (Fall) - ICS31 Introduction to Programming (Prof. Shannon Alfaro)
+- ICS32 Programming with Software Libraries (S23, Su23, F23, S24, F25)
+- ICS139W Critical Writing (W23, W25, S25)
+- CS121 Information Retrieval (W24)
+- ICS31 Introduction to Programming (F22)
 
 ##### **Fluminense Federal University**
-- 2019 - Production and Management of Urban Land Use (Prof. Fernanda Furtado)
+- Production and Management of Urban Land Use (S19)
 
 ##### **Brazillian College**
-- 2015 - Environmental Comfort (Prof. Aline Sauer)
-- 2012 - Visual Arts (Prof. Dilma Goes)
+- Environmental Comfort (S15)
+- Visual Arts (F12)
