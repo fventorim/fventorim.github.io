@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD Research projects
+title: NSF-JST SHIELD
 description: "NSF-JST SHIELD: Enabling human-centered digital twins for community resilience"
 img:
 importance: 1
