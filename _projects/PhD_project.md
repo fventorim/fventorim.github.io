@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PhD Research projects
-description: "CareDEX: Enabling disaster resilience in aging communities via a secure data exchange"
+title: CareDEX
+description: "Enabling disaster resilience in aging communities via a secure data exchange"
 img:
 importance: 2
 category: PhD Research projects
